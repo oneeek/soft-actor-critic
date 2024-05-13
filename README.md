@@ -5,7 +5,7 @@
 - [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905)의 알고리즘을 따라 구현했습니다.
 
 <p align="center">
-<img width="70%" src="https://github.com/oneeek/rl-sac/assets/169229814/40058c1c-cc13-4d7e-b1c3-4b3b5e0e17a0"/>
+<img width="70%" src="https://github.com/oneeek/soft-actor-critic/assets/169229814/34ddf9e3-98a1-4e68-a0c3-33c96aadb5d6"/>
 
 
 ## Install
