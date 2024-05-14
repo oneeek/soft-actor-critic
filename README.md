@@ -31,3 +31,4 @@ pip install imageio
 ## Test
 - [Pendulum](https://www.gymlibrary.dev/environments/classic_control/pendulum/)
 - [Half Cheetah](https://www.gymlibrary.dev/environments/mujoco/half_cheetah/)
+- (https://www.gymlibrary.dev/environments/box2d/bipedal_walker/)
